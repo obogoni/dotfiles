@@ -7,3 +7,4 @@
 vim.opt.relativenumber = true;
 vim.opt.wrap = true;
 
+lvim.format_on_save.enabled = true;
