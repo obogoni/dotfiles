@@ -1,0 +1,11 @@
+{
+  "sdk": {
+    "path": "/usr/local/bin/dotnet/sdk/9.0.102",
+    "version": "9.0.102"
+  },
+  "RoslynExtensionsOptions": {
+    "EnableImportCompletion": true,
+    "EnableAnalyzersSupport": true,
+    "EnableDecompilationSupport": true
+  }
+}

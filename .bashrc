@@ -7,6 +7,7 @@ PS1='[\u@\h \W]\$ '
 
 # Dotnet runtime
 export PATH="/usr/local/bin/dotnet:$PATH"
+export PATH="$HOME/.dotnet/tools:$PATH"
 export DOTNET_ROOT="/usr/local/bin/dotnet"
 
 export PATH="~/.local/bin/:$PATH"
